@@ -1,0 +1,12 @@
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.exe
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.deps.json
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.json
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.dev.json
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\RUMANA\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.genruntimeconfig.cache
