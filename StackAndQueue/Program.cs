@@ -6,7 +6,11 @@ namespace StackAndQueue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to stack and queue problem.");
+            LinkedListStack stack = new LinkedListStack();
+            stack.Push(10);
+            stack.Push(20);
+            stack.Push(45);
+
         }
     }
 }
