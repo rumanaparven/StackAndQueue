@@ -12,7 +12,10 @@ namespace StackAndQueue
             stack.Push(45);
             stack.Push(67);
             stack.PeekAndPopUntilStackIsEmpty();
-
+            LinkedListQueue queue = new LinkedListQueue();
+            queue.Enqueue(20);
+            queue.Enqueue(55);
+            queue.Enqueue(76);
         }
     }
 }
