@@ -10,6 +10,8 @@ namespace StackAndQueue
             stack.Push(10);
             stack.Push(20);
             stack.Push(45);
+            stack.Push(67);
+            stack.PeekAndPopUntilStackIsEmpty();
 
         }
     }

@@ -25,5 +25,32 @@ namespace StackAndQueue
             this.top = node;
             Console.WriteLine(value + " is pushed");
         }
+        internal void Peek()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is empty");
+                return;
+            }
+            Console.WriteLine(this.top.data+" is in the top of the stack");
+        }
+        internal void Pop()
+        {
+            if (this.top == null)
+            {
+                Console.WriteLine("Stack is empty");
+                return;
+            }
+            Console.WriteLine(this.top.data+" popped from the stack");
+            this.top = this.top.next;
+        }
+        internal void PeekAndPopUntilStackIsEmpty()
+        {
+            while (this.top != null)
+            {
+                Peek();
+                Pop();
+            }
+        }
     }
 }
